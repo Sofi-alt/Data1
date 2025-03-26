@@ -1,5 +1,5 @@
 Indicator,Geography,Year,Strata,Strata Name,Numerator,Denominator,Rate,Age Adjusted Rate
-Suicide,CALIFORNIA,2000,Sex,Female,682,17080000,3.993,4.067
+Suicide;CALIFORNIA,2000,Sex,Female,682,17080000,3.993,4.067
 Suicide,CALIFORNIA,2000,Sex,Male,2431,16920000,14.37,15.89
 Suicide,CALIFORNIA,2000,Sex,Total,3113,34000000,9.156,9.564
 Suicide,CALIFORNIA,2001,Sex,Female,685,17340000,3.95,4.005
