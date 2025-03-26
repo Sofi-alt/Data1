@@ -1,6 +1,6 @@
 {
   "meta" : {
-    "view" : {
+    "view" : {{
       "id" : "ky7j-fsk5",
       "name" : "City Revenues Per Capita",
       "assetType" : "dataset",
